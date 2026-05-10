@@ -1,12 +1,13 @@
 {
-  "LicenseIdentifier": "ISC",
   "Description": "A filter adding an exclusive background mode for integrated apps",
-  "SupportedDriverVersion": "0.6.0.4",
-  "PluginVersion": "1.0.2.60",
-  "Owner": "Fred Emmott",
-  "DownloadUrl": "https://github.com/OpenKneeboard/OTD-IPC/releases/download/v1.0.2/OpenKneeboard-OTD-IPC-v1.0.2.60.zip",
+  "SHA256": "ac4841fed6483b3ea0aba6e6d76bf135215f780ab4068b077f00dbbc3bfc7629",
   "Name": "OpenKneeboard OTD-IPC",
-  "SHA256": "205998af453609ffa5915bfabb0f0cb3830b3a9d7e5a962741bc66e962960cc1",
+  "PluginVersion": "2.0.0.97",
+  "CompressionFormat": "zip",
+  "Owner": "Fred Emmott",
+  "LicenseIdentifier": "MIT",
   "RepositoryUrl": "https://github.com/OpenKneeboard/OTD-IPC",
-  "CompressionFormat": "zip"
+  "DownloadUrl": "https://github.com/OpenKneeboard/OTD-IPC/releases/download/v2.0.0/OpenKneeboard-OTD-IPC.zip",
+  "WikiUrl": "https://otd-ipc.openkneeboard.com",
+  "SupportedDriverVersion": "0.6.0.4"
 }
